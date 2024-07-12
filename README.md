@@ -1,0 +1,1 @@
+# diamond-stars-with-one-nested-for-loop
